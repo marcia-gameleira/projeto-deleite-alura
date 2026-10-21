@@ -24,13 +24,7 @@ export const milkshakes: IProduct[] = [
     title: 'Milkshake de Verde',
     price: 18.0,
     image: 'assets/imagens/milkshakes/milkshake-verde.png',
-  },
-  {
-    id: 5,
-    title: 'Milkshake de Pistache',
-    price: 18.0,
-    image: 'assets/imagens/milkshakes/milkshake-verde.png',
-  },
+  }
 ];
 
 export const icecreams: IProduct[] = [
